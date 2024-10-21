@@ -3,4 +3,4 @@ E-commerce systems in the current digital economy produce enormous volumes of da
 
 ## Database Design
 
-![A test image](image.png)
+![A test image](https://github.com/fajri-yanti/ETL_e-commers/blob/main/erd-ecommers-db.png)
