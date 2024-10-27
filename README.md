@@ -8,3 +8,4 @@ Query to make fact table [Query](https://github.com/fajri-yanti/ETL_e-commers/bl
 
 ![ERD E-COMMERS](https://github.com/fajri-yanti/ETL_e-commers/blob/main/erd-ecommers-db.png)
 
+## Dashborad (Power BI, PostgreSQL)
